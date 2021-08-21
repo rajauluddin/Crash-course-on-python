@@ -10,3 +10,4 @@ print(count_letters("a quick brown fox jumps over a lazy dog"))
 print(count_letters("this is a short text"))
 print(count_letters("this is for the course sake i want to learn python"))
 
+print("-----------------------")
